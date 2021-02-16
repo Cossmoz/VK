@@ -1,6 +1,8 @@
 package ru.netology.domain;
 
-public class Share {
+public class ReportsInfo {
     private int count;
     private boolean canReport;
+    private int repostedUser;
+
 }
